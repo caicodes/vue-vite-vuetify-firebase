@@ -1,8 +1,7 @@
 <template>
   <v-app>
     <v-main>
-      yo
+      <!-- expo site -->
     </v-main>
   </v-app>
 </template>
-
