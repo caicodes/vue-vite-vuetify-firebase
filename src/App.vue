@@ -1,6 +1,5 @@
 <script setup>
 // import { firebase } from './services/firebase'
-
 const projAppName = import.meta.env.VITE_PROJECT_APP_NAME
 const siteTitle = import.meta.env.VITE_SITE_TITLE
 </script>
